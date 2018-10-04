@@ -1,1 +1,2 @@
 # KuisMatematika
+buat dapat kaos
